@@ -18,4 +18,4 @@ You can also navigate the Pokédex with the buttons.
 
 ### Try the demo now!
 
-Click on the link and try to the app for yourself! [https://prospektsmarch22.github.io/pokedex-generation-v/]
+Click on the link and try to the app for yourself! [link](https://prospektsmarch22.github.io/pokedex-generation-v/)
